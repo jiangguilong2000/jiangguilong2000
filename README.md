@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently the founder of gamioo framework, concerned about game server architecture and optimization, monitoring and early warning, intelligent operation and maintenance, data statistical analysis, etc., interested in IO, MOBA, FPS, global server
 
 <!--
 **jiangguilong2000/jiangguilong2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
